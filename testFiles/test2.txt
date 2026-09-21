@@ -1,0 +1,6 @@
+P|Anna|Andersson
+T|070-123456|08-123456
+A|Storgatan 1|Stockholm|11122
+F|Oskar|2010
+A|Skolgatan 5|Stockholm|11123
+T|073-987654|

@@ -1,0 +1,15 @@
+<people>
+    <person>
+        <firstname>Klara</firstname>
+        <lastname>Svensson</lastname>
+        <address>
+            <street>Rättgatan 2</street>
+            <city>Göteborg</city>
+            <zip>41111</zip>
+        </address>
+    </person>
+    <person>
+        <firstname>BaraFörnamn</firstname>
+        <lastname/>
+    </person>
+</people>

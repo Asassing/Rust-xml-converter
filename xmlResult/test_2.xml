@@ -1,0 +1,18 @@
+<people>
+    <person>
+        <firstname>Nils</firstname>
+        <lastname>Nilsson</lastname>
+    </person>
+    <person>
+        <firstname>Eva</firstname>
+        <lastname>Eriksson</lastname>
+        <phone>
+            <mobile>070-111222</mobile>
+            <landline/>
+        </phone>
+        <family>
+            <name>Kalle</name>
+            <born>2020</born>
+        </family>
+    </person>
+</people>

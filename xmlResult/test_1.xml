@@ -1,0 +1,28 @@
+<people>
+    <person>
+        <firstname>Anna</firstname>
+        <lastname>Andersson</lastname>
+        <address>
+            <street>Storgatan 1</street>
+            <city>Stockholm</city>
+            <zip>11122</zip>
+        </address>
+        <phone>
+            <mobile>070-123456</mobile>
+            <landline>08-123456</landline>
+        </phone>
+        <family>
+            <name>Oskar</name>
+            <born>2010</born>
+            <address>
+                <street>Skolgatan 5</street>
+                <city>Stockholm</city>
+                <zip>11123</zip>
+            </address>
+            <phone>
+                <mobile>073-987654</mobile>
+                <landline/>
+            </phone>
+        </family>
+    </person>
+</people>

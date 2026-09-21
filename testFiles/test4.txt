@@ -1,0 +1,8 @@
+A|Ingenmansland 1|Spökstad|00000
+T|000-000000|
+F|Spöket|1800
+
+P|Klara|Svensson
+A|Rättgatan 2|Göteborg|41111
+
+P|BaraFörnamn
